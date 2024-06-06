@@ -1,3 +1,5 @@
+Modified for use with maaspower
+
 ===============================
 Python AMT Tools
 ===============================
